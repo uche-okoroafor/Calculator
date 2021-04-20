@@ -44,5 +44,6 @@
 color:blue;
 display:flex;
 cursor:pointer;
-  display:flex
+  display:flex;
+  justify-content:center
 }
